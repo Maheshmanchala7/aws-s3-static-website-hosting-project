@@ -96,3 +96,28 @@ Successfully accessed website using S3 website endpoint URL.
 ## Outcome
 
 Successfully hosted a static website using Amazon S3 with public access and static website hosting configuration.
+## Project Screenshots
+
+### S3 Dashboard
+![S3 Dashboard](screenshots/s3-dashboard.png)
+
+### Bucket Created
+![Bucket](screenshots/bucket-created.png)
+
+### Public Access Settings
+![Public Access](screenshots/public-access.png)
+
+### Uploaded Files
+![Files](screenshots/uploaded-files.png)
+
+### Static Website Hosting
+![Hosting](screenshots/static-hosting.png)
+
+### Bucket Policy
+![Policy](screenshots/bucket-policy.png)
+
+### Website Endpoint
+![Endpoint](screenshots/website-endpoint.png)
+
+### Live Website Output
+![Website](screenshots/live-website.png)
